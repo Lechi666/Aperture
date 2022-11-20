@@ -431,8 +431,8 @@ textarea.input {
 
 .header._header-scroll {
   position: fixed;
-  background-color: #000;
-  opacity: 0.8;
+  background-color: #131418;
+  opacity: 1;
   height: 90px;
   top: -200%;
 }
@@ -1397,11 +1397,11 @@ textarea.input {
   }
 
   .what__container {
-    padding-left: 5.625rem;
+    padding-left: 0.625rem;
   }
 
   .what__container {
-    padding-right: 5.625rem;
+    padding-right: 0.625rem;
   }
 
   .rock__container {
@@ -1742,11 +1742,11 @@ textarea.input {
   }
 
   .what__container {
-    padding-left: clamp( 5.625rem , -0.7410714286rem  +  10.2678571429vw , 8.5rem );
+    padding-left: clamp( 0.625rem , -16.8125rem  +  28.125vw , 8.5rem );
   }
 
   .what__container {
-    padding-right: clamp( 5.625rem , -0.7410714286rem  +  10.2678571429vw , 8.5rem );
+    padding-right: clamp( 0.625rem , -16.8125rem  +  28.125vw , 8.5rem );
   }
 
   .rock__container {
